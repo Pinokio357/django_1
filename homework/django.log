@@ -1,0 +1,9 @@
+Watching for file changes with StatReloader
+C:\Users\Zver\Desktop\курс django\hw1\homework\homework\settings.py changed, reloading.
+INFO - 2024-02-08 11:35:23,956 - autoreload - Watching for file changes with StatReloader
+INFO - 2024-02-08 11:35:26,285 - views - main page visited
+INFO - 2024-02-08 11:35:26,287 - basehttp - "GET / HTTP/1.1" 200 45
+INFO - 2024-02-08 11:35:35,328 - views - visited page about me
+INFO - 2024-02-08 11:35:35,329 - basehttp - "GET /about/ HTTP/1.1" 200 46
+INFO - 2024-02-08 11:35:36,553 - views - visited page about me
+INFO - 2024-02-08 11:35:36,554 - basehttp - "GET /about/ HTTP/1.1" 200 46
